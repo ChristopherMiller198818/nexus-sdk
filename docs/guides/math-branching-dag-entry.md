@@ -614,3 +614,5 @@ For more advanced usage of entry groups and other DAG features, refer to the [DA
 
 [dag-construction]: ./dag-construction.md
 [math-branching-dag-builder-guide]: ./math-branching-dag-builder.md
+
+<!-- Auto-update: 2025-10-18T12:11:43.948969 -->
